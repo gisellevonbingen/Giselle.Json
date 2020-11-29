@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Giselle.Json", "Giselle.Json\Giselle.Json.csproj", "{20C94736-588C-4B8B-8E40-7D21E51B8FA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Giselle.Json.Test", "Giselle.Json.Test\Giselle.Json.Test.csproj", "{F35FA18B-6BD5-4382-B3B5-5820CC062265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20C94736-588C-4B8B-8E40-7D21E51B8FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C94736-588C-4B8B-8E40-7D21E51B8FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C94736-588C-4B8B-8E40-7D21E51B8FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C94736-588C-4B8B-8E40-7D21E51B8FA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F35FA18B-6BD5-4382-B3B5-5820CC062265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35FA18B-6BD5-4382-B3B5-5820CC062265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35FA18B-6BD5-4382-B3B5-5820CC062265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35FA18B-6BD5-4382-B3B5-5820CC062265}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E351514B-2038-4D98-A626-F86397E29D9D}
+	EndGlobalSection
+EndGlobal
