@@ -1,3 +1,3 @@
-# Giselle.Commons
+# Giselle.Json
 
 private commons library
